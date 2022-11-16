@@ -1,12 +1,12 @@
 # Agnostic Relay
 
-[Agnostic Relay](http://agnostic-relay.net/) is an open-source MEV Boost relay available to anyone, anywhere in the world, without prejudice or privilege. Agnostic Relay is an ideal relay for block producers and block builders trying to provide neutral features powered by Gnosis's know-how and experience.
+[Agnostic Relay](http://agnostic-relay.net/) is an open-source MEV Boost relay available to anyone, anywhere in the world, without prejudice or privilege. Agnostic Relay is an ideal relay for block producers and block builders trying to provide neutral features powered by the know-how and experience of Gnosis. 
 
 Agnostic Relay is a fork of [Flashbots mev-boost relay](https://github.com/flashbots/mev-boost-relay).
 
 # Motivation and Context
 
-We want to build a world where open competition is possible - the entrenched tool, the infrastructure must be credibly neutral/censorship resistant.  Building credibly neutral tools is also a critical step and that’s why we want to run the Agnostic Relay.
+We want to build a network where open competition is possible - the entrenched tooling and base layer must be credibly neutral and resistant to censorship. Building credibly neutral tools is also a critical step and that’s why we want to run the Agnostic Relay.
 
 As defined by Ethereum.org, a validator is a node in a proof-of-stake system responsible for storing data, processing transactions, and adding new blocks to the blockchain.
  
@@ -19,6 +19,7 @@ Prioritizing credible neutrality sends a clear message about what Gnosis values 
 # Agnostic Relay Features 
 
 * Resilient and credible neutral block building/producing
+* Decentralized and resistant to censorship.
 * Permissionless
 * Without privilege or prejudice
 
